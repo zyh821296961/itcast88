@@ -1,0 +1,3 @@
+https://SKY-20190214OHV:8443/svn/saas_ee88
+Linux : 账号 root  密码 123456 不能使用小键盘！
+数据库账号 root 密码 root 
